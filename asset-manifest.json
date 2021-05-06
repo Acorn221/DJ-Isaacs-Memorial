@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dj-isaacs-memorial/static/css/main.0434a9c8.chunk.css",
+    "main.js": "/dj-isaacs-memorial/static/js/main.62493ba6.chunk.js",
+    "main.js.map": "/dj-isaacs-memorial/static/js/main.62493ba6.chunk.js.map",
+    "runtime-main.js": "/dj-isaacs-memorial/static/js/runtime-main.61f94337.js",
+    "runtime-main.js.map": "/dj-isaacs-memorial/static/js/runtime-main.61f94337.js.map",
+    "static/js/2.928d6491.chunk.js": "/dj-isaacs-memorial/static/js/2.928d6491.chunk.js",
+    "static/js/2.928d6491.chunk.js.map": "/dj-isaacs-memorial/static/js/2.928d6491.chunk.js.map",
+    "static/js/3.9d696984.chunk.js": "/dj-isaacs-memorial/static/js/3.9d696984.chunk.js",
+    "static/js/3.9d696984.chunk.js.map": "/dj-isaacs-memorial/static/js/3.9d696984.chunk.js.map",
+    "index.html": "/dj-isaacs-memorial/index.html",
+    "static/css/main.0434a9c8.chunk.css.map": "/dj-isaacs-memorial/static/css/main.0434a9c8.chunk.css.map",
+    "static/js/2.928d6491.chunk.js.LICENSE.txt": "/dj-isaacs-memorial/static/js/2.928d6491.chunk.js.LICENSE.txt",
+    "static/media/upscaler-deepdream-cropped-2x-morecrop.8ffc2b33.jpg": "/dj-isaacs-memorial/static/media/upscaler-deepdream-cropped-2x-morecrop.8ffc2b33.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.61f94337.js",
+    "static/js/2.928d6491.chunk.js",
+    "static/css/main.0434a9c8.chunk.css",
+    "static/js/main.62493ba6.chunk.js"
+  ]
+}
