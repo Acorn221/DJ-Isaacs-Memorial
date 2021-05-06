@@ -4,7 +4,7 @@
   "private": false,
   "homepage": "https://acorn221.github.io/dj-isaacs-memorial",
   "predeploy": "yarn run build",
-  "deploy": "gh-pages -d build",
+  "deploy": "gh-pages -b master -d build",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
