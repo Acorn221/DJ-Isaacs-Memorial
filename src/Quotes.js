@@ -10,7 +10,7 @@ class Quotes extends React.Component {
       this.fadeTime = props.fadeTime*1000;
       this.quotes = [
         {"name": "James Arnott", "quote": "Mr Isaacs was my favourite teacher in school"},
-        {"name": "Josh Dinsdale", "quote": "I always sucked off DJ in class"},
+        {"name": "Sam Salter", "quote": "I got my name on the board for not watching the matrix"},
         {"name": "Ben WW", "quote": "DJ let us make the bone smuggler presentation"}
       ];
     }
