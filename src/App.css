@@ -1,38 +1,81 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Marck+Script&family=Press+Start+2P&display=swap');
+/********************************
+    font-family: 'Architects Daughter', cursive;
+
+    font-family: 'Marck Script', cursive;
+
+    font-family: 'Press Start 2P', cursive;
+*********************************/
+body {
+  /*overflow: hidden;*/
+  background-color: #000000;
+  -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome and Opera */
+}
+
+
+
 .App {
   text-align: center;
+  font-family: 'Press Start 2P', cursive;
+  
+}
+.backgroundDJ {
+  position:absolute;
+  bottom:0;
+  right: 0;
+  height: 50%;
+  opacity: 0.5;
+  z-index: -6;
+}
+.quotes {
+  color: #FFFFFF;
+  font-size: calc(5px + 3vmin);
+  width: 50%;
+  top: 50%;
+  margin: 5vmin;
+  font-family: 'Press Start 2P', cursive;
+  line-height: 1.6;
+  opacity: 1;
+}
+.fadeIn {
+  animation: fadein 1s;
+}
+.fadeOut {
+  animation: fadeout 1s;
+}
+@keyframes fadein {
+  from { opacity: 0; }
+  to   { opacity: 1; }
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+@keyframes fadeout {
+  from { opacity: 1; }
+  to   { opacity: 0; }
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.title {
+  margin: 140%;
 }
 
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+  
+  min-height: 25vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  margin: 1vmin;
 }
 
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+#bigDiv {
+  height: 1000px;
+  background-color: #FFFFFF;
 }
