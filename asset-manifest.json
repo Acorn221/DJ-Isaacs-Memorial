@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/DJ-Isaacs-Memorial/static/css/main.0434a9c8.chunk.css",
-    "main.js": "/DJ-Isaacs-Memorial/static/js/main.62493ba6.chunk.js",
-    "main.js.map": "/DJ-Isaacs-Memorial/static/js/main.62493ba6.chunk.js.map",
-    "runtime-main.js": "/DJ-Isaacs-Memorial/static/js/runtime-main.c2a703bc.js",
-    "runtime-main.js.map": "/DJ-Isaacs-Memorial/static/js/runtime-main.c2a703bc.js.map",
-    "static/js/2.928d6491.chunk.js": "/DJ-Isaacs-Memorial/static/js/2.928d6491.chunk.js",
-    "static/js/2.928d6491.chunk.js.map": "/DJ-Isaacs-Memorial/static/js/2.928d6491.chunk.js.map",
-    "static/js/3.9d696984.chunk.js": "/DJ-Isaacs-Memorial/static/js/3.9d696984.chunk.js",
-    "static/js/3.9d696984.chunk.js.map": "/DJ-Isaacs-Memorial/static/js/3.9d696984.chunk.js.map",
-    "index.html": "/DJ-Isaacs-Memorial/index.html",
-    "static/css/main.0434a9c8.chunk.css.map": "/DJ-Isaacs-Memorial/static/css/main.0434a9c8.chunk.css.map",
-    "static/js/2.928d6491.chunk.js.LICENSE.txt": "/DJ-Isaacs-Memorial/static/js/2.928d6491.chunk.js.LICENSE.txt",
-    "static/media/upscaler-deepdream-cropped-2x-morecrop.8ffc2b33.jpg": "/DJ-Isaacs-Memorial/static/media/upscaler-deepdream-cropped-2x-morecrop.8ffc2b33.jpg"
+    "main.css": "/static/css/main.0434a9c8.chunk.css",
+    "main.js": "/static/js/main.62493ba6.chunk.js",
+    "main.js.map": "/static/js/main.62493ba6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ae88e5fd.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ae88e5fd.js.map",
+    "static/js/2.928d6491.chunk.js": "/static/js/2.928d6491.chunk.js",
+    "static/js/2.928d6491.chunk.js.map": "/static/js/2.928d6491.chunk.js.map",
+    "static/js/3.9d696984.chunk.js": "/static/js/3.9d696984.chunk.js",
+    "static/js/3.9d696984.chunk.js.map": "/static/js/3.9d696984.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.0434a9c8.chunk.css.map": "/static/css/main.0434a9c8.chunk.css.map",
+    "static/js/2.928d6491.chunk.js.LICENSE.txt": "/static/js/2.928d6491.chunk.js.LICENSE.txt",
+    "static/media/upscaler-deepdream-cropped-2x-morecrop.8ffc2b33.jpg": "/static/media/upscaler-deepdream-cropped-2x-morecrop.8ffc2b33.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c2a703bc.js",
+    "static/js/runtime-main.ae88e5fd.js",
     "static/js/2.928d6491.chunk.js",
     "static/css/main.0434a9c8.chunk.css",
     "static/js/main.62493ba6.chunk.js"
