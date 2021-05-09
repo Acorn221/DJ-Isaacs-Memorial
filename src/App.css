@@ -30,7 +30,9 @@ body {
   position:absolute;
   bottom:0;
   right: 0;
-  height: 50%;
+  max-height: 50%;
+  max-width: 50%;
+  width: auto;
   opacity: 0.5;
   z-index: -6;
 }
@@ -44,11 +46,14 @@ body {
   line-height: 1.6;
   opacity: 1;
 }
+.fadedOut {
+  opacity: 0;
+}
 .fadeIn {
-  animation: fadein 1s;
+  animation: fadein 1.2s;
 }
 .fadeOut {
-  animation: fadeout 1s;
+  animation: fadeout 1.2s;
 }
 @keyframes fadein {
   from { opacity: 0; }
@@ -78,4 +83,19 @@ body {
 #bigDiv {
   height: 1000px;
   background-color: #FFFFFF;
+}
+
+.formLinkContainer {
+  background-color: #FFFFFF;
+  width: 100%;
+  position: fixed;
+  bottom: 10px;
+  text-align: center;
+  padding: 2vmin;
+}
+.responseForm {
+  font-size: calc(3px + 2vmin);
+}
+.subTitle {
+  font-size: calc(3px + 2vmin);
 }

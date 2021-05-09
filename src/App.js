@@ -1,6 +1,6 @@
 import djImg from './images/upscaler-deepdream-cropped-2x-morecrop.jpg'
 import './App.css';
-import Quotes from './Quotes';
+import QuoteSwitcher from './QuoteSwitcher';
 
 
 function Quote(props){
@@ -33,11 +33,16 @@ function App() {
           
         </div>
         <br></br>
-        <p>
-          The Legendary Teacher
+        <p className="subTitle">
+          A memorial for him, from his students
         </p>
       </header>
-      <Quotes timeBetweenQuotes="6" fadeTime="1" />
+      <QuoteSwitcher timePerWord="500" fadeTime="1" quoteSection="Best Moments"/>
+      <div className="formLinkContainer">
+      <a className="responseForm" href="https://forms.gle/CT63yfhdCnmfx25p6">
+        Click Here To Submit Your Own Experiences With Mr Isaacs
+      </a>
+      </div>
       
     </div>
   );
